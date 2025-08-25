@@ -1,0 +1,4 @@
+name :tarathep madmun
+nickname : charif
+age : 21
+my profiln
